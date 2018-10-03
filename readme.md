@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5dab8cf4060b4ab39a80df7f459e867c)](https://www.codacy.com/app/mkeeneth/nodejs-clustering-postgres?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mkeeneth/nodejs-clustering-postgres&amp;utm_campaign=Badge_Grade)
 # Testing how well Node.js can scale and cluster with Postgres
 
 ## Using
