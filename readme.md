@@ -6,7 +6,7 @@ Node.js, express, cluster, Postgres, body-parser. Also used modern aync/awit and
 
 - <https://nodejs.org/api/cluster.html>
 - <https://www.npmjs.com/package/body-parser>
-- <https://artillery.io?
+- <https://artillery.io>
 
 ## Run Load test
 
