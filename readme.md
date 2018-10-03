@@ -1,8 +1,8 @@
-# Testing how well Node.js can scale and cluster with Redis
+# Testing how well Node.js can scale and cluster with Postgres
 
 ## Using:
 
-Node.js, express, cluster, redis, body-parser
+Node.js, express, cluster, Postgres, body-parser
 
 - https://nodejs.org/api/cluster.html
 - https://www.npmjs.com/package/body-parser
