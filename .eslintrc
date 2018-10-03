@@ -1,0 +1,10 @@
+{
+  "parser": "babel-eslint",
+  "extends": ["prettier"],
+  "globals": {
+    "document": true,
+    "foo": true,
+    "window": true,
+    "it": true
+  }
+}
