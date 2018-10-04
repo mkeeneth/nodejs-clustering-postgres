@@ -23,11 +23,13 @@ if (cluster.isMaster) {
   // worker processes
 } else {
   const express = require("express");
+  const responseTime = require('response-time')
   const mountRoutes = require("./app/routes");
   const helmet = require("helmet");
   const bodyParser = require("body-parser");
   const app = express();
   app.use(helmet()); // secure it
+  app.use(responseTime()); // time it
   const port = 8000;
 
   app.use(bodyParser.urlencoded({ extended: true }));

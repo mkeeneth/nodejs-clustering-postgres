@@ -17,6 +17,7 @@
     "helmet": "^3.13.0",
     "pg": "^7.4.3",
     "redis": "^2.8.0",
+    "response-time": "^2.3.2",
     "sqlite3": "^4.0.2"
   },
   "devDependencies": {
